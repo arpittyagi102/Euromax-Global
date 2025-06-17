@@ -21,7 +21,7 @@ export default function Header() {
                             </Link>
                         </li>
                         <li>
-                            <Link href="#">
+                            <Link href="/download">
                                 <span className="hover:text-blue-600 transition-colors duration-200">Download</span>
                             </Link>
                         </li>
